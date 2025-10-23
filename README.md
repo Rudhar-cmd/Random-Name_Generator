@@ -1,4 +1,4 @@
-## 🧠 Random Name Generator (Node.js + Express + EJS)
+## Random Name Generator (Node.js + Express + EJS)
 
 This is a simple Node.js web application that generates random names by combining adjectives and nouns. It uses Express for server handling, EJS for rendering dynamic content, and body-parser for processing form data.
 
